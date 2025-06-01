@@ -16,4 +16,6 @@ Handles redirects and invalid inputs .Simple, console-based interface
 
 There are two main entry points, you can run it either using GUI or main. To run the GUI, you need to use the GraphicalUserInterface class which is where the GUI is present to interact with the code. Whereas, to run it on console, then you would have to run it in the Main class.
 
+![Image](https://github.com/user-attachments/assets/1f32bc98-d73c-4cd0-80a7-aec11bbc3651)
 
+![Image](https://github.com/user-attachments/assets/04f23669-d86e-4ff4-bfed-80cf1dc26988)
