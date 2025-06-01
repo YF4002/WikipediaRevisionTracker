@@ -1,6 +1,4 @@
-Name of The Project: FirstProject(Wikipedia Revision Tracker)
-
-Name: Yahaya Fofana
+**Wikipedia Revision Tracker**
 
 About the Project:
 This project is a simple Java-based Wikipedia revision tracker. It takes a Wikipedia article title from the user, fetches the most recent edits from Wikipedia's API, and displays them in the console. It’s designed to handle redirects and errors gracefully, ensuring that even if the user enters an incorrect or misspelled article title, they get a meaningful response.
